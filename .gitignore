@@ -1,5 +1,6 @@
 # Project exclude paths
 /project/project/target/
+.idea
 /project/target/
 /target/
 /web-ui/target/
